@@ -5,6 +5,9 @@ Modern, responsive portfolio website built with React + Vite, featuring smooth o
 ## Author
 
 - Name: Mohammad Fouzia Firdous
+- Email: mdfouziafirdous07@gmail.com
+- GitHub: [Fouzia77](https://github.com/Fouzia77)
+- LinkedIn: [Profile](https://www.linkedin.com/in/fouzia-firdous-mohammad-384072291)
 
 ## Project Description
 
@@ -38,7 +41,7 @@ It is optimized for mobile, tablet, and desktop breakpoints, and includes reduce
 
 ```bash
 git clone https://github.com/Fouzia77/Personal-Portfolio-.git
-cd personal-portfolio
+cd Personal-Portfolio-
 ```
 
 ### 2) Install dependencies

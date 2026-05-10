@@ -42,7 +42,7 @@ const projects = [
     description:
       "A responsive metrics dashboard with role-based routes, reusable charts, and summary cards for fast monitoring.",
     tech: ["React", "Tailwind CSS", "Chart.js", "Firebase"],
-    github: "https://github.com/Fouzia77/Personal-Portfolio-.git",
+    github: "https://github.com/Fouzia77/Personal-Portfolio-",
     demo: "https://personalportfolio-ten-ashen.vercel.app",
   },
   {
@@ -50,7 +50,7 @@ const projects = [
     description:
       "A modern storefront with animated product cards, filtering, cart flows, and optimized image loading for speed.",
     tech: ["React", "Vite", "Framer Motion", "Stripe API"],
-    github: "https://github.com/your-username/ecommerce-ui",
+    github: "https://github.com/Fouzia77/ecommerce-ui",
     demo: "https://example-store.netlify.app",
   },
   {
@@ -58,7 +58,7 @@ const projects = [
     description:
       "A Kanban-style task manager featuring drag interactions, status tracking, and clean component architecture.",
     tech: ["React", "TypeScript", "Sass", "Supabase"],
-    github: "https://github.com/your-username/team-collab-app",
+    github: "https://github.com/Fouzia77/team-collab-app",
     demo: "https://example-collab.vercel.app",
   },
 ]
@@ -76,7 +76,7 @@ function App() {
       <header className="sticky top-0 z-50 border-b border-white/10 bg-base/80 backdrop-blur-xl">
         <nav className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
           <a href="#hero" className="font-heading text-lg font-semibold tracking-wide text-white">
-            YourName<span className="text-accent">.</span>
+            Fouzia<span className="text-accent">.</span>
           </a>
           <button
             type="button"
@@ -138,8 +138,11 @@ function App() {
                 Full Stack Developer
               </p>
               <h1 className="font-heading text-4xl font-bold leading-tight text-white sm:text-5xl lg:text-6xl">
-                Building performant web experiences with purposeful motion.
+                Mohammad Fouzia Firdous
               </h1>
+              <p className="mt-4 max-w-2xl text-xl font-medium text-slate-200 sm:text-2xl">
+                Building performant web experiences with purposeful motion.
+              </p>
               <p className="mt-6 max-w-2xl text-base text-slate-300 sm:text-lg">
                 I am a frontend developer focused on responsive interfaces, component systems, and
                 delightful interactions that still prioritize accessibility and performance.
@@ -175,8 +178,8 @@ function App() {
           <div className="rounded-2xl border border-white/10 bg-panel p-8 shadow-glow">
             <h2 className="font-heading text-3xl font-semibold text-white">About Me</h2>
             <p className="mt-5 leading-7 text-slate-300">
-              I am a developer who enjoys transforming ideas into polished, production-ready
-              interfaces. My background includes building reusable UI systems, interactive
+              I&apos;m Mohammad Fouzia Firdous, a developer who enjoys transforming ideas into polished,
+              production-ready interfaces. My background includes building reusable UI systems, interactive
               dashboards, and conversion-focused landing pages. I care deeply about responsive
               design, semantic HTML, and smooth interactions powered by transform and opacity
               animations. Currently, I am sharpening my skills in Next.js architecture and web
@@ -296,7 +299,7 @@ function App() {
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href="mailto:your-email@example.com"
+                href="mailto:mdfouziafirdous07@gmail.com"
                 className="inline-flex items-center gap-2 rounded-lg border border-white/20 px-4 py-2 text-sm text-slate-100 transition hover:border-accent"
               >
                 <FaEnvelope aria-hidden="true" /> Email
@@ -310,7 +313,7 @@ function App() {
                 <FaGithub aria-hidden="true" /> GitHub
               </a>
               <a
-                href="https://linkedin.com/in/Fouzia Firdous Mohammad"
+                href="https://www.linkedin.com/in/fouzia-firdous-mohammad-384072291"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg border border-white/20 px-4 py-2 text-sm text-slate-100 transition hover:border-accent"
@@ -323,7 +326,10 @@ function App() {
       </main>
 
       <footer className="border-t border-white/10 py-8 text-center text-sm text-slate-400">
-        <p>© {new Date().getFullYear()} Your Name. Built with React, Vite, Tailwind, and Framer Motion.</p>
+        <p>
+          © {new Date().getFullYear()} Mohammad Fouzia Firdous. Built with React, Vite, Tailwind, and
+          Framer Motion.
+        </p>
       </footer>
     </div>
   )
