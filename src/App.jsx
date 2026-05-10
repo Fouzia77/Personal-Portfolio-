@@ -330,6 +330,9 @@ function App() {
           © {new Date().getFullYear()} Mohammad Fouzia Firdous. Built with React, Vite, Tailwind, and
           Framer Motion.
         </p>
+        {__GIT_SHA__ ? (
+          <p className="mt-2 text-xs text-slate-600">Deploy {__GIT_SHA__}</p>
+        ) : null}
       </footer>
     </div>
   )
