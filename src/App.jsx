@@ -42,8 +42,8 @@ const projects = [
     description:
       "A responsive metrics dashboard with role-based routes, reusable charts, and summary cards for fast monitoring.",
     tech: ["React", "Tailwind CSS", "Chart.js", "Firebase"],
-    github: "https://github.com/your-username/analytics-dashboard",
-    demo: "https://example-dashboard.vercel.app",
+    github: "https://github.com/Fouzia77/Personal-Portfolio-.git",
+    demo: "https://personalportfolio-ten-ashen.vercel.app",
   },
   {
     title: "E-Commerce UI",
@@ -152,7 +152,7 @@ function App() {
                   View My Work
                 </a>
                 <a
-                  href="https://github.com/your-username"
+                  href="https://github.com/Fouzia77"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-lg border border-white/20 px-6 py-3 text-sm font-semibold text-white transition hover:border-accent"
@@ -302,7 +302,7 @@ function App() {
                 <FaEnvelope aria-hidden="true" /> Email
               </a>
               <a
-                href="https://github.com/your-username"
+                href="https://github.com/Fouzia77"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg border border-white/20 px-4 py-2 text-sm text-slate-100 transition hover:border-accent"
@@ -310,7 +310,7 @@ function App() {
                 <FaGithub aria-hidden="true" /> GitHub
               </a>
               <a
-                href="https://linkedin.com/in/your-linkedin"
+                href="https://linkedin.com/in/Fouzia Firdous Mohammad"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 rounded-lg border border-white/20 px-4 py-2 text-sm text-slate-100 transition hover:border-accent"

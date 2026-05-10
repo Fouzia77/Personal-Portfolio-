@@ -4,7 +4,7 @@ Modern, responsive portfolio website built with React + Vite, featuring smooth o
 
 ## Author
 
-- Name: Your Name
+- Name: Mohammad Fouzia Firdous
 
 ## Project Description
 
@@ -29,14 +29,15 @@ It is optimized for mobile, tablet, and desktop breakpoints, and includes reduce
 
 ## Live Site
 
-- Portfolio URL: https://your-portfolio-url.vercel.app
+- Portfolio URL: https://personalportfolio-ten-ashen.vercel.app
+
 
 ## Local Setup
 
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/your-username/personal-portfolio.git
+git clone https://github.com/Fouzia77/Personal-Portfolio-.git
 cd personal-portfolio
 ```
 
