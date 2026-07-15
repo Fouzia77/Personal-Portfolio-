@@ -189,8 +189,7 @@ function App() {
           <div className="rounded-2xl border border-white/10 bg-gradient-to-br from-brand/30 to-accent/20 p-8">
             <div className="flex h-full items-center justify-center rounded-xl border border-white/20 bg-base/70 p-10 text-center">
               <p className="text-slate-200">
-                
-                c:\Users\DELL\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\FA01EDF295980F907F5EA27A827D8392E9B4FF80\transfers\2026-29\WhatsApp Image 2026-07-15 at 10.50.59 AM.jpeg
+                <img src ="avatar.jpeg"></img>
               </p>
             </div>
           </div>
