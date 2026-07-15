@@ -32,7 +32,7 @@ It is optimized for mobile, tablet, and desktop breakpoints, and includes reduce
 
 ## Live Site
 
-- Portfolio URL: https://personalportfolio-ten-ashen.vercel.app
+- Portfolio URL: https://personal-portfolio-website-3b7kfea85-fouzia77s-projects.vercel.app
 
 
 ## Local Setup
