@@ -189,7 +189,14 @@ function App() {
           <div className="rounded-2xl border border-white/10 bg-gradient-to-br from-brand/30 to-accent/20 p-8">
             <div className="flex h-full items-center justify-center rounded-xl border border-white/20 bg-base/70 p-10 text-center">
               <p className="text-slate-200">
-                <img> src = {avatarImg} </img>
+                <Image
+                  src="/avatar.jpg"
+                  alt="Fouzia Firdous Mohammad Profile Picture"
+                  fill
+                  priority
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                  className="object-cover object-[center_20%]"
+                />
               </p>
             </div>
           </div>
