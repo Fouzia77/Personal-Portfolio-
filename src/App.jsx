@@ -14,7 +14,7 @@ import {
 } from "react-icons/fa"
 import { RiTailwindCssFill } from "react-icons/ri"
 import { SiJavascript, SiNextdotjs, SiVite } from "react-icons/si"
-
+import avatarImg from '../assets/avatar.jpeg'; 
 const navLinks = [
   { name: "Home", href: "#hero" },
   { name: "About", href: "#about" },
@@ -189,7 +189,7 @@ function App() {
           <div className="rounded-2xl border border-white/10 bg-gradient-to-br from-brand/30 to-accent/20 p-8">
             <div className="flex h-full items-center justify-center rounded-xl border border-white/20 bg-base/70 p-10 text-center">
               <p className="text-slate-200">
-                <img src ="E:\GPP\avatar.jpeg"></img>
+                <img> src = {avatarImg} </img>
               </p>
             </div>
           </div>
