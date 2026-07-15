@@ -14,7 +14,9 @@ import {
 } from "react-icons/fa"
 import { RiTailwindCssFill } from "react-icons/ri"
 import { SiJavascript, SiNextdotjs, SiVite } from "react-icons/si"
-import avatarImg from '../assets/avatar.jpeg'; 
+
+import avatarImg from './assets/avatar.jpeg'; 
+
 const navLinks = [
   { name: "Home", href: "#hero" },
   { name: "About", href: "#about" },
@@ -187,14 +189,14 @@ function App() {
             </p>
           </div>
           <div className="rounded-2xl border border-white/10 bg-gradient-to-br from-brand/30 to-accent/20 p-8">
-          <div className="flex h-full items-center justify-center rounded-xl border border-white/20 bg-base/70 p-4">
-            <img
-              src={avatarImg}
-              alt="Fouzia Firdous"
-              className="w-72 h-72 rounded-xl object-cover shadow-lg"
-            />
+            <div className="flex h-full items-center justify-center rounded-xl border border-white/20 bg-base/70 p-4">
+              <img
+                src={avatarImg}
+                alt="Fouzia Firdous Mohammad"
+                className="w-72 h-72 object-cover rounded-xl shadow-lg"
+              />
+            </div>
           </div>
-        </div>
         </motion.section>
 
         <motion.section
