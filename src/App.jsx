@@ -46,20 +46,20 @@ const projects = [
     demo: "https://personalportfolio-ten-ashen.vercel.app",
   },
   {
-    title: "E-Commerce UI",
+    title: "Live Sports Score Ticker ",
     description:
-      "A modern storefront with animated product cards, filtering, cart flows, and optimized image loading for speed.",
-    tech: ["React", "Vite", "Framer Motion", "Stripe API"],
-    github: "https://github.com/Fouzia77/ecommerce-ui",
-    demo: "https://example-store.netlify.app",
+      "A highly functional and well-structured Kafka implementation demonstrating strong core concepts of message keying, topic partitioning, and consumer group scaling, with minor gaps in Docker orchestration and live lag monitoring.",
+    tech: ["React", "Vite", "Node js", "PostgreSQL"],
+    github: "https://github.com/Fouzia77/Live-Sports-Score-Ticker.git",
+    demo: "https://www.loom.com/share/9d0369ddb3a2425b85c2f05d527116d6"
   },
   {
-    title: "Team Collaboration App",
+    title: "Twitter Sentiment Analysis API ",
     description:
-      "A Kanban-style task manager featuring drag interactions, status tracking, and clean component architecture.",
-    tech: ["React", "TypeScript", "Sass", "Supabase"],
-    github: "https://github.com/Fouzia77/team-collab-app",
-    demo: "https://example-collab.vercel.app",
+      "A complete sentiment analysis system using a pre-trained BERT model.",
+    tech: ["React", "TypeScript", "FastAPI", "Pytorch"],
+    github: "https://github.com/Fouzia77/Twitter-Sentiment-Analysis-API.git",
+    demo: "https://www.loom.com/share/b9a15a995b194d548eac2f56c9c718e9",
   },
 ]
 
